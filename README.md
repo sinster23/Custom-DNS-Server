@@ -111,7 +111,7 @@ The server uses a predefined in-memory record table:
 ---
 
 ## 🧑‍💻 Author
-Upayan
+Upayan </br>
 Custom DNS implementation in pure Node.js
 Inspired by low-level networking challenges like CodeCrafters' DNS challenge.
 
