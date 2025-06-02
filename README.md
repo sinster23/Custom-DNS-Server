@@ -10,6 +10,7 @@ This project manually handles DNS protocol encoding and decoding — no external
 DNS (Domain Name System) is like the **phonebook of the Internet**. When you type a domain like `example.com`, DNS resolves it to an IP address so your browser knows where to send the request.
 
 ### 🔍 DNS Lookup Flow
+```
 
 ------------------+
 | Your Browser |
@@ -26,6 +27,7 @@ v
 +--------+---------+
 | Web Server |
 +------------------+
+```
 
 DNS translates:
 
