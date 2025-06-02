@@ -67,8 +67,8 @@ Works perfectly with tools like `dig`, `nslookup`, or even your browser (with `r
 
 ```bash
 git clone https://github.com/sinster23/custom-dns-server.git
-cd diy-dns-server
-node dns-server.js
+cd custom-dns-server
+node server.js
 ```
 The server will start listening on 0.0.0.0:5333.
 
