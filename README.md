@@ -1,6 +1,6 @@
 # 🧠 DIY DNS Server in Node.js
 
-A fully functional DNS server built from scratch using Node.js and raw UDP sockets (without dns packet) .  
+A fully functional DNS server built from scratch using Node.js and raw UDP sockets.  
 This project manually handles DNS protocol encoding and decoding — no external DNS libraries used!
 
 ---
